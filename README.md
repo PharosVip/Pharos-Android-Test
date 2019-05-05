@@ -1,4 +1,5 @@
 # Pharos-Android-Test
 * Pharos Android Test Version
 * Support ：SS ，SSR
-* Version：110
+* Version：120
+
