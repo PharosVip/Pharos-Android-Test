@@ -3,3 +3,6 @@
 * Support ：SS ，SSR
 * Version：120
 
+
+##update log
+fixed bug 
