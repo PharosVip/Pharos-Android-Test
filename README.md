@@ -6,3 +6,5 @@
 
 ##update log
 fixed bug 
+
+[Download Here](https://github.com/PharosVip/Pharos-Android-Test/releases)
