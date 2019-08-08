@@ -1,7 +1,7 @@
 # Pharos-Android-Test
 * Pharos Android Test Version
 * Support ：SS ,SS+Simple obfs,SSR
-* Version：121
+* Version：103
 
 ## update log
 fixed bug 
