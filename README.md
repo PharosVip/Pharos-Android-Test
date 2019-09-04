@@ -8,7 +8,6 @@
 [Download Here](https://apps.apple.com/app/pharos-pro/id1456610173)
 
 
-## update log
-fixed bug 
-
-[Download Here](https://github.com/PharosVip/Pharos-Android-Test/releases)
+## Pharos Android 
+ 
+ [Download Here](https://github.com/PharosVip/Pharos-Android-Test/releases)
