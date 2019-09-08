@@ -1,6 +1,6 @@
 # Pharos-Android-Test
 * Pharos Android Test Version
-* Support ：SS ,SS+Simple obfs,SSR
+* Support protocol ：SS ,SS+Simple obfs,SSR
 * Version：103
 
 
