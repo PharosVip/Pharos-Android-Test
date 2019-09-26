@@ -1,7 +1,7 @@
 # Pharos-Android-Test
 * Pharos Android Test Version
 * Support protocol ：SS ,SS+Simple obfs,SSR
-* Version：1.1.0
+* Version：1.1.6
 
 
 ## Pharos Pro iOS
