@@ -1,6 +1,6 @@
 # Pharos-Android-Test
 * Pharos Android Test Version
-* Support protocol ：Trojan,Vmess,SS ,SS+Simple obfs,SSR
+* Support protocol ：Trojan,Vmess,SS,SS+Simple obfs,SSR
 * Version：2.0.0
 
 
