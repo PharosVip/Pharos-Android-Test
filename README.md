@@ -1,6 +1,6 @@
 # Pharos Pro -Android-Test
 * Pharos Android Test Version
-* Support protocol ：Trojan,V2ray-Core,SS,SS+Simple obfs,SSR
+* Support protocol ：Trojan,Trojan-go,V2ray-Core,SS,SS+Simple obfs,SSR
 * Version：3.0.0
 * Build: [109](https://t.me/Pharos_Pro_Announcements)
 
