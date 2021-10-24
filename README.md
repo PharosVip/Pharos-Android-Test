@@ -2,7 +2,7 @@
 * Pharos Android Test Version
 * Support protocol ：Trojan,Trojan-go,V2ray-Core,SS,SS+Simple obfs,SSR
 * Version：3.0.0
-* Build: [109](https://t.me/Pharos_Pro_Announcements)
+* Build: [156](https://t.me/Pharos_Pro_Announcements)
 
 ## Document
 [Document](https://telegra.ph/Pharos-Pro-For-Android%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E-02-20)
